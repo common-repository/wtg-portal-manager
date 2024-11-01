@@ -1,0 +1,70 @@
+/* 
+* Purpose: Add styling to frontend/public content of WordPress.
+* Package: WTG Portal Manager 
+* Author: Ryan R. Bayne
+* Contact: webmaster@webtechglobal.co.uk 
+* Version: 0.1
+*/
+.portalmanager_update_item * {margin: 0; padding: 0;}
+
+.portalmanager_update_item {
+    margin: 20px;
+}
+ 
+.portalmanager_update_item ul {
+    list-style-type: none;
+    width: 520px;
+}
+
+.portalmanager_update_item ul li img {
+    float: left;
+    margin: 0 15px 0 0;
+}
+
+.portalmanager_update_item ul li p {
+    font: 200 12px/1.5 Georgia, Times New Roman, serif;
+}
+ 
+.portalmanager_update_item ul li {
+    padding: 10px;
+    overflow: auto;
+}
+ 
+.portalmanager_update_item ul li:hover {
+    background: #eee;
+    cursor: pointer;
+}
+
+/*
+div {
+  margin: 20px;
+}
+ 
+ul {
+  list-style-type: none;
+  width: 500px;
+}
+ 
+h3 {
+  font: bold 20px/1.5 Helvetica, Verdana, sans-serif;
+}
+ 
+li img {
+  float: left;
+  margin: 0 15px 0 0;
+}
+ 
+li p {
+  font: 200 12px/1.5 Georgia, Times New Roman, serif;
+}
+ 
+li {
+  padding: 10px;
+  overflow: auto;
+}
+ 
+li:hover {
+  background: #eee;
+  cursor: pointer;
+}
+*/
